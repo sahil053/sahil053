@@ -15,16 +15,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
   &emsp;
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-  </a>
-  &emsp;
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  &emsp; 
-  <a href="https://dart.dev/">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Flutter">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/"> 
@@ -34,6 +26,7 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
+    &emsp;
 </p>
 
 
@@ -47,21 +40,10 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
   </a> 
   &emsp;
-  <a href="https://expressjs.com">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  </a> 
-  &emsp;
-  <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </a> 
-  &emsp;
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
   &emsp;
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  </a>
 </p>
 
 <h2> Database & Hosting </h2>
@@ -78,21 +60,9 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
   &emsp;
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a> 
-  &emsp;
     <a href="https://docs.mongodb.com/">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" >
     </a>
-  &emsp;
-  <a href="https://www.postgresql.org/docs/">
-    <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" >
-  </a>
-  &emsp;
-  <a href="https://www.sqlite.org/">
-    <img src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  </a>
 </p>
 
 
@@ -116,14 +86,6 @@
   &emsp;
   <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" >
-  </a>
-  &emsp;
-  <a href="https://www.adobe.com/">
-      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" >
-  </a>
-  &emsp;
-  <a href="https://www.figma.com/">
-      <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   </a>
 </p>
 
