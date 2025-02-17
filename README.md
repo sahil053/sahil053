@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A developer from Mumbai, India.</h3>
 <img src="https://tenor.com/bELc4.gif" >
-<h4 align='center'>I love to code, experiment and design. <br> Currently pursuing B.Tech in Artificial Intelligence & Data Science.</h4>
+<h4 align='center'>I love to code, experiment and design. <br> Graduated - B.Tech in Artificial Intelligence & Data Science.</h4>
 <p align='center' style="padding:1rem">
   <img src="https://komarev.com/ghpvc/?username=sanket-16&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" >
 </p>
